@@ -73,7 +73,8 @@ Both tasks currently write to the console stream sink.
 If you want to save all terminal output to a file:
 
 ```bash
-python task4.py > output.txt
+python task4.py > task4/output.txt
+python task5.py > task5/output.txt
 ```
 
 ## Model Artifacts
